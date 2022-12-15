@@ -1,4 +1,4 @@
-# <Prework Study Guide Webpage
+# Prework Study Guide Webpage
 
 ## Description
 
@@ -8,15 +8,6 @@ I built this project to help me to:
 - Keep track of commands that are the core to this project 
 - make sure it covered the HTML, CSS, Git, and JavaScript commands and notes,
 - also was an eye opener into the world of front end web develoer
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
